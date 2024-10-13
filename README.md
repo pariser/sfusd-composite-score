@@ -1,3 +1,9 @@
+# TL;DR
+
+_**IMPORTANT: The values provided in this spreadsheet are inferred, not provided by SFUSD or Stanford CEPA.**_
+
+https://docs.google.com/spreadsheets/d/1IItX67J8q2NNqTC_N5C9TQ3S-CJtyc0sBRMlFn-Dlgo/edit?usp=sharing
+
 # Background
 
 On 2024-10-08, San Franicsco Unified School District (SFUSD) released a provisional list of schools they will recommend for closure in at the end of the 2024-2025 academic year.
