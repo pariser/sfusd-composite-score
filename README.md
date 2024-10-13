@@ -1,8 +1,10 @@
 # TL;DR
 
+With the help of a friend, I wrote a program to extrapolate the equity, excellence and effective use of resources scores that are used to generate SFUSD's composite scores.
+
 _**IMPORTANT: The values provided in this spreadsheet are inferred, not provided by SFUSD or Stanford CEPA.**_
 
-https://docs.google.com/spreadsheets/d/1IItX67J8q2NNqTC_N5C9TQ3S-CJtyc0sBRMlFn-Dlgo/edit?usp=sharing
+The data is available here: https://docs.google.com/spreadsheets/d/1IItX67J8q2NNqTC_N5C9TQ3S-CJtyc0sBRMlFn-Dlgo/edit?usp=sharing
 
 # Background
 
