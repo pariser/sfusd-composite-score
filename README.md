@@ -6,6 +6,12 @@ _**IMPORTANT: The values provided in this spreadsheet are inferred, not provided
 
 The data is available here: https://docs.google.com/spreadsheets/d/1IItX67J8q2NNqTC_N5C9TQ3S-CJtyc0sBRMlFn-Dlgo/edit?usp=sharing
 
+# CHANGELOG
+
+## v2 (2024-10-13)
+
+I have been informed that the conversion of the raw composite score to “pretty” composite score was _NOT_ done using normal distribution percentiles, but rather using linear transformations. I re-ran the analysis (literally the same exact code in `cvx.ipynb` with different input values for `c_values`) and generated new "v2" component scores. See the same data spreadsheet above, but go to the tabs labeled "v2" to see these results.
+
 # Background
 
 On 2024-10-08, San Franicsco Unified School District (SFUSD) released a provisional list of schools they will recommend for closure in at the end of the 2024-2025 academic year.
